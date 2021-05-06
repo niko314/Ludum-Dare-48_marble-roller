@@ -3,7 +3,7 @@
 This game was created completely from beginning in 48 hours for the 48 Ludum Dare.
 Theme: deeper and deeper
 
-You can find the installer for mac above.
+You can find the installer for mac and windows above.
 
 How to play:
 You are controlling a marble ball that rolls down. You can slow it down with s and jump with w.
